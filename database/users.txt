@@ -1,0 +1,7 @@
+admin, atikul@gmail.com, 12345, Atikul
+admin, nuralom@gmail.com, 12345, Nuralom
+user, humayonbd@gmail.com, 12345, Humayon
+user, ahad@gmail.com, 12345, Ahad
+user, ahad@gmail.com, 12345, Ahad
+user, bijoy@gmail.com, 12345, Bijoy
+user, milon.code@gmail.com, 1234, cod
